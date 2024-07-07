@@ -1,0 +1,2 @@
+- graph.js and utils.js --> math folder (v2)
+- point.js and segment.js --> primitives folder (v2)
